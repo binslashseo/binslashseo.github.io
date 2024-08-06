@@ -7,8 +7,4 @@ a    {color: rgb(87, 20, 175);}
 a:visited {color: rgb(87, 20, 175);}
 a:hover {color: rgb(121, 39, 154);}
 a:active {color: rgb(87, 20, 175);}
-* {font-family:monospace;}
-.header {
-    background-color: rgb(18, 18, 18);
-    margin: 0px;
-}
+* {font-family:'Segoe UI', Geneva, Verdana;}
