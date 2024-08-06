@@ -1,4 +1,4 @@
-body {background-color: rgb(18, 18, 18);}
+body {background-color: rgb(30, 30, 30);}
 h1   {color: white;}
 h2   {color: white;}
 h3   {color: white;}
@@ -8,3 +8,6 @@ a:visited {color: rgb(87, 20, 175);}
 a:hover {color: rgb(121, 39, 154);}
 a:active {color: rgb(87, 20, 175);}
 * {font-family:monospace;}
+.header {
+    background-color: rgb(18, 18, 18)
+}
