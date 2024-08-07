@@ -7,6 +7,6 @@ p,h1,h2,h3 {
 * {
     font-family: monospace;
 }
-dotted {
-    border-top: 3 solid #fff;
+hr.solid {
+    border-top: 3px solid #000;
 }
