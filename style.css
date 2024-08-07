@@ -4,6 +4,9 @@ background-color {
 p,h1,h2,h3{
     color:black;
 }
+pre {
+    font-size: 40;
+}
 * {
     font-family: monospace;
     white-space:pre-wrap;
