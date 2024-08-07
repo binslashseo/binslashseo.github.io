@@ -1,8 +1,8 @@
 background-color {
-    color:white
+    color:white;
 }
 p,h1,h2,h3{
-    color:black
+    color:black;
 }
 * {
     font-family:monospace;
