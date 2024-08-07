@@ -4,9 +4,7 @@ background-color {
 p,h1,h2,h3{
     color:black;
 }
-* {
-    font-family:monospace;
-}
+* {font-family:monospace;}
 hr.solid {
     border-top: 3 solid #000;
 }
