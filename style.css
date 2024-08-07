@@ -1,13 +1,12 @@
-background-color {
-    color:white;
+head,body {
+    background-color:#fff
 }
-p,h1,h2,h3{
+p,h1,h2,h3 {
     color:black;
 }
 * {
     font-family: monospace;
-    white-space:pre-wrap;
 }
-hr.solid {
+dotted {
     border-top: 3 solid #fff;
 }
