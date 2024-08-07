@@ -6,11 +6,9 @@ p,h1,h2,h3{
 }
 * {
     font-family: monospace;
-}
-/* note: paragraph dislikes the global setting above D: */
-p {
-    font-family: monospace;
+    white-space:pre-wrap;
 }
 hr.solid {
-    border-top: 3 solid #000;
+    border-top: 3 solid #fff;
 }
+white-space:pre-wrap
