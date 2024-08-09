@@ -1,3 +1,7 @@
 * {
     font-family: eightbit;
 }
+@font-face {
+    font-family: creep2;
+    src: url("extra/creep2.ttf");
+  }
