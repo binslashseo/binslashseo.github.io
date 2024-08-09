@@ -1,0 +1,10 @@
+.title {
+    background-color:rgb(#382d3d);
+    color:rgb(90, 57, 238);
+}
+head,body {
+    background-color:rgb(#44364a);
+}
+* {
+    font-family:eightbit;
+}

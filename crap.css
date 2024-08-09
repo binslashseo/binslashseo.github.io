@@ -1,0 +1,9 @@
+head,body {
+    background-color:#fff
+}
+p,h1,h2,h3 {
+    color:black;
+}
+* {
+    font-family: monospace;
+}
