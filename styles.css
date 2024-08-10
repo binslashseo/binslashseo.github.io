@@ -6,8 +6,9 @@
     border-width: 0px 5px;
     border-color:rgb(41, 41, 41);
     background-color:rgb(25, 25, 25);
-    margin-left: 5px;
+    margin-left: 20px;
 }
 body {
     background-color:black;
+    color: white;
 }
