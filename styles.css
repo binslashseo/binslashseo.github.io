@@ -4,17 +4,17 @@ body {
 a {
     background-color: #141414;
     color: #ee673a;
-    text-decoration-thickness: 3;
+    text-decoration: solid;
 }
 a:visited {
     background-color: #141414;
     color: #ee673a;
-    text-decoration-thickness: 3;
+    text-decoration: solid;
 }
 a:hover {
     background-color: #ee673a;
     color: #141414;
-    text-decoration-thickness: 3;
+    text-decoration: solid;
 }
 p {
     font-family: "Geo"
