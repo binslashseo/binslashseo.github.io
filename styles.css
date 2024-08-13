@@ -1,6 +1,18 @@
 body {
     background-color:rgb(24, 24, 24)
 }
+a {
+    background-color: #141414;
+    color: #ee673a;
+}
+a:visited {
+    background-color: #141414;
+    color: #ee673a;
+}
+a:hover {
+    background-color: #ee673a;
+    color: #141414;
+}
 p {
     font-family: "Geo"
 }
