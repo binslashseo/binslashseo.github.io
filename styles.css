@@ -1,6 +1,9 @@
 body {
     background-color:rgb(24, 24, 24)
 }
+p {
+    font-family: "Geo"
+}
 * {
     font-family: "Silkscreen"
 }
