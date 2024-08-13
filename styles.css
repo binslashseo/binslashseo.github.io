@@ -1,3 +1,6 @@
-head {
+body {
     background-color:rgb(24, 24, 24)
+}
+* {
+    font-family: "Silkscreen"
 }
