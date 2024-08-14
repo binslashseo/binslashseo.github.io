@@ -17,7 +17,8 @@ a:hover {
     text-decoration: solid;
 }
 p {
-    font-family: "Geo"
+    font-family: "Geo";
+    font-size: large;
 }
 * {
     font-family: "Silkscreen"
