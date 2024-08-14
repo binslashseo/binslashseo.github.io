@@ -35,4 +35,7 @@ li.square {
 }
 .footer {
     color: #303030;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
