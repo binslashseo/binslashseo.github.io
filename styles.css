@@ -13,16 +13,16 @@
 }
 a {
     color:black;
-    font-size:xx-large;
+    font-size:30px;
     transition-property: font-size, color; 
     transition-duration: 250ms; 
     transition-timing-function: ease; 
 }
 a:visited {
     color:black;
-    font-size:xx-large;
+    font-size:30px;
 }
 a:hover {
-    color:#111111;
-    font-size:x-large;
+    color:#000000c0;
+    font-size:25px;
 }
