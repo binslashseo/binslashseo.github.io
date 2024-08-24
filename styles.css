@@ -1,6 +1,10 @@
+@font-face {
+    font-family: 'CustomHeading';
+    src: url('./fonts/SFAtarianSystem.ttf') format('embedded-opentype'),
+}
 .header {
-    font-family: "Dosis", sans-serif;
+    font-family: "reef";
 }
 .main {
-    font-family: "Dosis", sans-serif;
+    font-family: "reef";
 }

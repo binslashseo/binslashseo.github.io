@@ -1,2 +1,2 @@
-# config files for my website (WIP)
-personal webspace stuff
+# Website configs
+Nothing to see here. (Aside from the files, if you care...)
