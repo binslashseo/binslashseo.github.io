@@ -11,20 +11,18 @@
     font-weight:600;
     font-size:larger;
 }
-.gh-icon {
-    a:link {
-        color:black;
-        font-size:xx-large;
-        transition-property: font-size, color; 
-        transition-duration: 800ms; 
-        transition-timing-function: ease; 
-    }
-    a:visited {
-        color:black;
-        font-size:xx-large;
-    }
-    a:hover {
-        color:#111111;
-        font-size:x-large;
-    }
+a {
+    color:black;
+    font-size:xx-large;
+    transition-property: font-size, color; 
+    transition-duration: 800ms; 
+    transition-timing-function: ease; 
+}
+a:visited {
+    color:black;
+    font-size:xx-large;
+}
+a:hover {
+    color:#111111;
+    font-size:x-large;
 }
