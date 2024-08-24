@@ -11,6 +11,9 @@
     font-weight:600;
     font-size:larger;
 }
+.gh-icon {
+    background-color: #00000000;
+}
 a {
     color:black;
     font-size:30px;
