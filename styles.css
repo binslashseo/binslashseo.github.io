@@ -3,6 +3,8 @@
     padding-top:40px;
     font-family:"Quicksand";
     font-weight:600;
+}
+head {
     border-left: 4px solid #000;
     border-top: 4px solid #000;
 }
