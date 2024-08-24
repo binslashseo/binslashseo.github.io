@@ -1,9 +1,10 @@
-#container {
+.cont {
+    margin: 25px;
+    width: 350px;
+    height: 200px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 300px;
 }
 .header {
     text-align:center;
