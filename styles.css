@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'CustomHeading';
-    src: url('Reef.otf') format('embedded-opentype'),
+    font-family: 'Reef';
+    src: url('Reef.otf') format('embedded-opentype');
 }
 .header {
     font-family: "Reef";
