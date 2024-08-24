@@ -4,5 +4,8 @@
     font-family:"Quicksand";
     font-weight:600;
     border-bottom: 4px solid #000;
-    border-width: 300px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
 }
