@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'CustomHeading';
-    src: url('./fonts/SFAtarianSystem.ttf') format('embedded-opentype'),
+    src: url('Reef.otf') format('embedded-opentype'),
 }
 .header {
     font-family: "reef";
