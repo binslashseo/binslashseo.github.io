@@ -3,6 +3,13 @@
     padding-top:40px;
     font-family:"Quicksand";
     font-weight:600;
+    ::-moz-selection {
+        background-color: #f0f0f0;
+    }
+      
+    ::selection {
+        background-color: #f0f0f0;
+      }
 }
 .main {
     text-align:center;
@@ -10,10 +17,15 @@
     font-family:"Quicksand";
     font-weight:600;
     font-size:larger;
+    ::-moz-selection {
+        background-color: #f0f0f0;
+    }
+      
+    ::selection {
+        background-color: #f0f0f0;
+      }
 }
-.gh-icon {
-    background-color: #00000000;
-}
+.gh-icon,
 .ds-icon {
     background-color: #00000000;
 }
@@ -22,6 +34,13 @@
     font-size:small;
     color:#909090;
     padding-top:10px;
+    ::-moz-selection {
+        background-color: #f0f0f0;
+      }
+      
+      ::selection {
+        background-color: #f0f0f0;
+      }
 }
 a {
     color:black;
