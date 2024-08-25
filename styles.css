@@ -12,8 +12,8 @@
     font-size:larger;
 }
 .links {
-    border-bottom:4px solid;
-    border-color:radial-gradient(ellipse at center, rgba(166,166,166,0.65) 0%,rgba(166,166,166,0.64) 1%,rgba(166,166,166,0) 100%);
+    border-bottom:4px solid radial-gradient(ellipse at center, rgba(166,166,166,0.65) 0%,rgba(166,166,166,0.64) 1%,rgba(166,166,166,0) 100%);
+    text-align:center;
 }
 .gh-icon {
     background-color: #00000000;
