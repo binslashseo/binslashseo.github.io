@@ -18,6 +18,12 @@
 .ds-icon {
     background-color: #00000000;
 }
+.ps {
+    font-family:"Playwrite IT Moderna";
+    font-size:medium;
+    color:#909090;
+    padding-top:10px;
+}
 a {
     color:black;
     font-size:60px;
