@@ -33,6 +33,6 @@ hr {
     padding-top:7px;
     width:17%;
     margin:0 auto;
-    border:2px, 0px, 0px, 0px;
-    border-top:2px solid rgb:(0,0,0,.2);
+    border-top:2px solid rgba(0,0,0,.2);
+    border-width:2px 0 0 0;
 }
