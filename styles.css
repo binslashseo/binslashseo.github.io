@@ -11,11 +11,6 @@
     font-weight:600;
     font-size:larger;
 }
-.links {
-    border-bottom:2px solid rgba:(0,0,0,.2);
-    width:300px;
-    text-align:center;
-}
 .gh-icon {
     background-color: #00000000;
 }
@@ -33,4 +28,9 @@ a:visited {
 a:hover {
     color:#000000c0;
     font-size:55px;
+}
+hr {
+    width:50%;
+    margin:0 auto;
+    border-top:2px solid #000;
 }
